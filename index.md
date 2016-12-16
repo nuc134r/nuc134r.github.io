@@ -5,14 +5,14 @@ An experienced **.NET developer** with a willing to make world better. I'm curre
 I first touched code when I was 13 years old. The first serious programming language was C#. Making experiments through creating simple programs with Windows Forms I got pretty ready to quit middle school after 9th grade to join Moscow University College of IT. Now I'm going through the last semester and doing my [diploma project in full stack JavaScript](https://github.com/nuc134r/school-portal).
 
 ### Skills
-* Power user of Windows, Office, Chrome and Visual Studio w/ ReSharper
-* Basic user of Linux (bash)
+* Windows, Office, Chrome and Visual Studio w/ ReSharper power user
+* Linux terminal basic user
 * Experienced Googler
 * Deep knowledge of .NET stack techniques and technologies (Azure, TFS, WPF, MVVM, SQL Server, Entity Framework, ASP.NET Web API)
-* Good knowledge of JavaScript tack (AngularJS, Bootstrap, AJAX as well as NodeJS, npm, Jade(Pug), ExpressJS, SequelizeJS, AsyncJS) + PostgreSQL
-* Basic knowledge of assembly languages, C, C++, Make, libcheck (I'm not so high-level as you might think)
-* Understanding of an Agile way (Scrum, Kanban) and tools for it (Trello, TFS)
-* Team working, planning, eXtreme programming
+* Good knowledge of JavaScript stack (AngularJS, Bootstrap, AJAX as well as NodeJS, npm, Jade(Pug), ExpressJS, SequelizeJS, AsyncJS) + PostgreSQL
+* Basic knowledge of assembly languages, C, C++, Make, libcheck (yeah I'm not so high-level)
+* Understanding of an Agile way (Scrum, Kanban) and tools (Trello, TFS)
+* Team working, planning, eXtreme Programming
 * Knowing and usage of SMART, KISS, DRY, YAGNI, SOLID and other abbreviations
 
 ### Interests
