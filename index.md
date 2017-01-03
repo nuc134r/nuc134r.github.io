@@ -2,7 +2,7 @@
 An experienced .NET developer with a willing to make world better. I'm currently living in Moscow, Russia.
 
 ### A Brief Story
-I touched code when I was 13. It was a scripting language in Flash movies drawing program. My first serious programming language was C#. Making experiments through creating simple programs with Windows Forms and (some) WPF I got pretty ready to quit middle school after 9th grade to join Moscow University College of IT. Now I'm going through the last semester and doing my [diploma project in full stack JavaScript](https://github.com/nuc134r/school-portal).
+I touched code when I was 13. It was a scripting language in Flash movie drawing program. My first serious programming language was C#. Making experiments through creating simple programs with Windows Forms and (some) WPF I got pretty ready to quit middle school after 9th grade to join Moscow University College of IT. Now I'm going through the last semester and doing my [diploma project in full stack JavaScript](https://github.com/nuc134r/school-portal).
 
 ### Skills
 * Windows, Office, Chrome and Visual Studio w/ ReSharper power user
