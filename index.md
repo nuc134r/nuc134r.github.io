@@ -11,7 +11,7 @@ I touched code when I was 13. It was a scripting language in Flash movie drawing
 * Deep knowledge of **.NET stack** techniques and technologies: Azure, TFS, WPF, MVVM, SQL Server, Entity Framework, ASP.NET Web API, WCF
 * Good knowledge of **JavaScript** front: AngularJS, Bootstrap, AJAX, jQuery...
 * ...and back: Node.js, npm, Jade(Pug), ExpressJS, SequelizeJS, AsyncJS + PostgreSQL
-* Basic knowledge of assembly languages, C, C++, Make, libcheck (yeah I'm not so high-level)
+* Basic knowledge of assembly languages, C, C++, Make, libcheck
 * Understanding of an **Agile** way (Scrum, Kanban) and tools (Trello, TFS)
 * Team working, planning, eXtreme Programming
 * Knowing and usage of SMART, KISS, DRY, YAGNI, SOLID and other abbreviations
