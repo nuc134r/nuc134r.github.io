@@ -3,9 +3,9 @@ An experienced .NET developer with a willing to make world better. I'm currently
 
 ### Skills
 * Deep knowledge of **.NET stack** techniques and technologies: Azure, TFS, WPF, MVVM, SQL Server, Entity Framework, ASP.NET Web API, WCF
-* Good knowledge of **JavaScript** frontend (AngularJS, Vue, Bootstrap, AJAX, jQuery) and backend (Node.js, npm, Pug, Express.js, Sequelize.js, Async.js, Mocha, Chai)
+* Good knowledge of **JavaScript** frontend (Angular, Vue, Bootstrap, AJAX, jQuery) and backend (Node.js, npm, Pug, Express.js, Sequelize.js, Async.js, Mocha, Chai)
 * Basic knowledge of assembly languages, C, C++, Make, libcheck
-* Windows, Office, Chrome and Visual Studio with ReSharper power user
+* Windows, Office, Chrome and Visual Studio w/ ReSharper power user
 * Linux terminal basic user
 * Experienced Googler
 * Understanding necessity of unit, integration and smoke testing
