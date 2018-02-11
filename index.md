@@ -1,20 +1,20 @@
 ### $ whoami
-An experienced .NET developer with a willing to make world better. I'm currently living in Moscow, Russia.
+Experienced (3+ yrs) .NET developer from **Moscow** with a willing to make world better.
 
 ### Skills
-* Deep knowledge of **.NET stack** techniques and technologies: Azure, TFS, WPF, MVVM, SQL Server, Entity Framework, ASP.NET Web API, WCF
-* Good knowledge of **JavaScript** frontend (Angular, Vue, Bootstrap, AJAX, jQuery) and backend (Node.js, npm, Pug, Express.js, Sequelize.js, Async.js, Mocha, Chai)
+* Deep knowledge of **.NET stack** technologies: Azure, TFS, WPF, SQL Server, Entity Framework, ASP.NET Web API, WCF
+* Good knowledge of **JavaScript frontend** (Angular, Vue, Bootstrap, AJAX, jQuery) **and backend** (Node.js, npm, Pug, Express.js, Sequelize.js, Async.js, Mocha, Chai)
 * Basic knowledge of assembly languages, C, C++, Make, libcheck
 * Windows, Office, Chrome and Visual Studio w/ ReSharper power user
-* Linux terminal basic user
 * Experienced Googler
-* Understanding necessity of unit, integration and smoke testing
-* I know what **Agile** way is
-* Team work, planning, eXtreme Programming
-* Knowing and usage of SMART, KISS, DRY, YAGNI, SOLID and other principles
+* Linux terminal basic user
+* Teamwork, planning, eXtreme Programming
+* Unit, integration and smoke testing
+* **Agile** way
+* I use SMART, KISS, DRY, YAGNI, SOLID principles in life and work
 
 ### UI & UX
-Aside coding I love spending hours tuning user interface simplifying it and making pretty. I'm in love with minimalism.
+Aside from coding I love spending hours tuning user interface simplifying it and making pretty. I'm in love with minimalism.
 
 ### Contacts
 
