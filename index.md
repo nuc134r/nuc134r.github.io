@@ -2,15 +2,37 @@
 Experienced (3+ yrs) .NET developer from **Moscow** with a willing to make world better.
 
 ### Skills
-* Deep knowledge of **.NET stack** technologies: Azure, TFS, WPF, SQL Server, Entity Framework, ASP.NET Web API, WCF
-* Good knowledge of **JavaScript frontend** (Angular, Vue, Bootstrap, AJAX, jQuery) **and backend** (Node.js, npm, Pug, Express.js, Sequelize.js, Async.js, Mocha, Chai)
+* Deep knowledge of **.NET stack technologies**: 
+  * Team Foundation Server (TFS) Build System
+  * Windows Presentation Foundation (WPF)
+  * Microsoft SQL Server
+  * ASP.NET Web API
+  * Entity Framework
+  * Azure Web Services
+  * Windows Communication Foundation (WCF)
+* Good knowledge of **JavaScript frontend**
+  * Angular
+  * Vue
+  * Bootstrap
+  * jQuery
+* ..**and backend**
+  * Node.js
+  * npm
+  * Pug (ex Jade)
+  * Express.js
+  * Sequelize.js
+  * Async.js
+  * Mocha
 * Basic knowledge of assembly languages, C, C++, Make, libcheck
-* Windows, Office, Chrome and Visual Studio w/ ReSharper power user
+* Windows, Office, Chrome and Visual Studio w/ **ReSharper** power user
 * Experienced Googler
-* Linux terminal basic user
-* Teamwork, planning, eXtreme Programming
-* Unit, integration and smoke testing
 * **Agile** way
+  * Teamworking
+  * Planning
+  * eXtreme Programming
+  * DevOps
+* Unit, integration and smoke **testing**
+* Linux terminal basic user
 * I use SMART, KISS, DRY, YAGNI, SOLID principles in life and work
 
 ### UI & UX
