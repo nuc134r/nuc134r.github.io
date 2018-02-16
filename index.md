@@ -3,13 +3,13 @@ Experienced (3+ yrs) .NET developer from **Moscow** with a willing to make world
 
 ### Skills
 * Deep knowledge of **.NET stack technologies**: 
-  * Team Foundation Server (TFS) Build System
   * Windows Presentation Foundation (WPF)
   * Microsoft SQL Server
   * ASP.NET Web API
   * Entity Framework
-  * Azure Web Services
   * Windows Communication Foundation (WCF)
+  * Team Foundation Server (TFS) Build System
+  * Azure Web Services
 * Good knowledge of **JavaScript frontend**
   * Angular
   * Vue
