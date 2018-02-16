@@ -15,7 +15,7 @@ Experienced (3+ yrs) .NET developer from **Moscow** with a willing to make world
   * Vue
   * Bootstrap
   * jQuery
-* ..**and backend**
+* ..and backend
   * Node.js
   * npm
   * Pug (ex Jade)
