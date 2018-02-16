@@ -3,7 +3,7 @@ Experienced (3+ yrs) .NET developer from **Moscow** with a willing to make world
 
 ### Skills
 * Deep knowledge of **.NET stack technologies**: 
-  * Windows Presentation Foundation (WPF)
+  * Windows Presentation Foundation (also familiar with DevExpress components)
   * Microsoft SQL Server
   * ASP.NET Web API
   * Entity Framework
@@ -23,17 +23,17 @@ Experienced (3+ yrs) .NET developer from **Moscow** with a willing to make world
   * Sequelize.js
   * Async.js
   * Mocha
-* Basic knowledge of assembly languages, C, C++, Make, libcheck
 * Windows, Office, Chrome and Visual Studio w/ **ReSharper** power user
-* Experienced Googler
 * **Agile** way
   * Teamworking
   * Planning
   * eXtreme Programming
   * DevOps
 * Unit, integration and smoke **testing**
-* Linux terminal basic user
 * I use SMART, KISS, DRY, YAGNI, SOLID principles in life and work
+* Experienced Googler
+* Linux terminal basic user
+* Basic knowledge of assembly languages, C, C++, Make, libcheck
 
 ### UI & UX
 Aside from coding I love spending hours tuning user interface simplifying it and making pretty. I'm in love with minimalism.
