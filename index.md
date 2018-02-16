@@ -40,4 +40,4 @@ Aside from coding I love spending hours tuning user interface simplifying it and
 
 ### Contacts
 
-Contact me via e-mail: [tihonov1sergio@gmail.com](mailto:tihonov1sergio@gmail.com) or [Telegram](https://telegram.me/nuc134r).
+Contact me via [e-mail](mailto:tihonov1sergio@gmail.com) or [Telegram](https://telegram.me/nuc134r).
