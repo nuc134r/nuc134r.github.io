@@ -1,5 +1,5 @@
 ### $ whoami
-Experienced (3+ yrs) .NET developer from **Moscow** with a willing to make world better.
+Experienced .NET developer from **Moscow** with a willing to make world better.
 
 ### Skills
 * Deep knowledge of **.NET stack technologies**: 
